@@ -17,5 +17,5 @@ dotnet sln list
 
 ## How to Run Test
 ```bash
-dotnet test fizzbuzz.UnitTest/fizzbuzz.UnitTest.csproj
+dotnet test tests/fizzbuzz.UnitTest/fizzbuzz.UnitTest.csproj
 ```
