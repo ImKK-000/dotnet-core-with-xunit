@@ -14,3 +14,8 @@ dotnet sln add src/fizzbuzz/fizzbuzz.csproj
 dotnet sln add tests/fizzbuzz.UnitTest/fizzbuzz.UnitTest.csproj
 dotnet sln list
 ```
+
+## How to Run Test
+```bash
+dotnet test fizzbuzz.UnitTest/fizzbuzz.UnitTest.csproj
+```
